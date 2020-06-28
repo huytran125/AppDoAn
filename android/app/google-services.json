@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "720621104939",
+    "firebase_url": "https://clouddhttest.firebaseio.com",
+    "project_id": "clouddhttest",
+    "storage_bucket": "clouddhttest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720621104939:android:f1aba9f2564a0a66771f6e",
+        "android_client_info": {
+          "package_name": "com.tracklocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720621104939-9db91qak1e257ha6f7krfjahicnoktrm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBY6ter7dYWl8MJqIKeCL2VSOYoGDBgxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720621104939-9db91qak1e257ha6f7krfjahicnoktrm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
